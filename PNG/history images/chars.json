@@ -1,0 +1,26 @@
+    {
+    "Lance": {
+        "name": "Lance",
+        "age": "17",
+        "gender": "Male",
+        "job": "Swordsman",
+        "country": "New Almekia",
+        "background": "Lance was the prince of the kingdom of Almekia and was poised to inherent the throne until Zemeckis staged his coup. As his kingdom was reorganized into the Esgares Empire, he fled west and took refuge in the kingdom of Padstow to avoid suffering the same fate as his father. King Coel, the elderly ruler of Padstow, saw Lance as an inspiring young man who could lead the people through difficult times, so he abdicated and allowed Lance to take the throne. Padstow became New Almekia, and Lance resolved to avenge his father's death and reclaim his birthright. After capturing Logres and defeating the Esgares Empire, Lance can change his class to King."
+     },
+    "Vaynard": {
+        "name": "Vaynard",
+        "age": "20",
+        "gender": "Male",
+        "job": "Warlord",
+        "country": "Norgard",
+        "background": "Formerly known as the best general of Norgard, an excellent swordsman and a brilliant strategist. Thus, earning him the nickname WHITE WOLF. He is a very cool and calm person, capable of thinking through things calmly and nicely. However, he is also a bit sarcastic and doesn't believe others' promises easily, as seen when he tried to ally Norgard with Leonia but rejected and didn't believe in Lyonesse's promise not to attack Norgard. He also said that if Leonia didn't ally with Norgard, he'd take over Leonia. Vaynard is the commander of the Norgard army and King Doremiditt's best general in the war against Almekia. Supposedly he should be in the frontline command, but he didn't join the battle, saying that he wanted to avoid war against them and even gave some land to them already. Without Vaynard on the frontline, Norgard was in disarray, losing the battle and its king quickly. After the war, Vaynard was chosen to be the new king at the age of 21. He then gathers the knights of Norgard. One of them is Guinglain, Vaynard's best friend and Norgard's Silver Knight, who is known as a powerful frontline general and became Vaynard's advisor. He is the first man to learn about Vaynard's ambition to unify the continent under his rule and wishes to help him realize it. He was accepted by other knights in the kingdom, who became his trusted warriors. However, the late king's daughter, Princess Brangien, does not acknowledge Vaynard as her king. She blames him for her father's death and stopping her from claiming the throne of Norgard, which causes her to hate Vaynard even more."
+     },
+    "char": {
+        "name": "",
+        "age": "",
+        "gender": "",
+        "job": "",
+        "country": "",
+        "background": ""
+     }
+    }
